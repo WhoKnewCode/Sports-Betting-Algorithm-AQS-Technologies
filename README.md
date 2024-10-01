@@ -12,4 +12,4 @@ This project involves predicting sports outcomes using neural networks like LSTM
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Sports Betting Algorithm - AQS Technologies.git
+   git clone https://github.com/yourusername/Sports Betting Algorithm AQS Technologies.git
